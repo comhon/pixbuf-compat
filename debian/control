@@ -6,7 +6,7 @@ Homepage: https://comhon.github.com/pixbuf-compat
 Package: libgdk-pixbuf2.0-0
 Version: 99.0-1
 Architecture: all
-Maintainer: Jan Štìpán <comhon.stepan@gmail.com>
+Maintainer: Jan Stepan <comhon.stepan@gmail.com>
 
 Depends: libgdk-pixbuf-2.0-0
 Provides: libgdk-pixbuf2.0-0
