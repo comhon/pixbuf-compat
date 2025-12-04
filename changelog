@@ -1,0 +1,5 @@
+﻿libgdk-pixbuf2.0-0 (99.0-1) stable; urgency=low
+
+  * Initial release of compatibility dummy package.
+
+ -- Jan Štěpán <comhon.stepan@gmail.com>  Tue, 04 Dec 2025 16:50:00 +0000

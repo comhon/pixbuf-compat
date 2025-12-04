@@ -1,0 +1,19 @@
+Section: oldlibs
+Priority: optional
+Standards-Version: 4.6.2
+Homepage: https://comhon.github.com/pixbuf-compat
+
+Package: libgdk-pixbuf2.0-0
+Version: 99.0-1
+Architecture: all
+Maintainer: Jan Štìpán <comhon.stepan@gmail.com>
+
+Depends: libgdk-pixbuf-2.0-0
+Provides: libgdk-pixbuf2.0-0
+
+Description: Transitional package for renamed libgdk-pixbuf library
+ This is a compatibility (dummy) package for Debian 13+ systems where
+ libgdk-pixbuf2.0-0 has been renamed to libgdk-pixbuf-2.0-0.
+ .
+ It contains no files and only exists to satisfy dependencies for
+ legacy installers such as minecraft.deb.
